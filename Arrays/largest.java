@@ -21,9 +21,7 @@ public class largest {
                 largest = arr[i];
             }
         }
-
         System.out.println("Largest = " + largest);
-
         sc.close();
     }
 }
